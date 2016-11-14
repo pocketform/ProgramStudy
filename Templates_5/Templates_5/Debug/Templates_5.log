@@ -1,0 +1,14 @@
+﻿Build started 17/10/2016 14:42:17.
+     1>Project "h:\visual studio 2015\Projects\Templates_5\Templates_5\Templates_5.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt stack.cpp
+         stack.cpp
+     1>h:\visual studio 2015\projects\templates_5\templates_5\stack.cpp(61): warning C4715: 'Stack<int>::check': not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"h:\visual studio 2015\Projects\Templates_5\Debug\Templates_5.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"h:\visual studio 2015\Projects\Templates_5\Debug\Templates_5.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"h:\visual studio 2015\Projects\Templates_5\Debug\Templates_5.lib" /MACHINE:X86 Debug\stack.obj
+         Templates_5.vcxproj -> h:\visual studio 2015\Projects\Templates_5\Debug\Templates_5.exe
+     1>Done Building Project "h:\visual studio 2015\Projects\Templates_5\Templates_5\Templates_5.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.46
